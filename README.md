@@ -2,14 +2,8 @@
 A curated list of programming basic commands and tools
 
 ## Github
+*Add to staging* -> *create commit* -> *push*
 
-### Nomenclature
-- **clone repository**
-- **commit**
-- **pull request**
-
-### Commands
-`git add .`
-`git commit -m "add: github commands in Readme"`
-`git push`
-``
+- `git add .`
+- `git commit -m "add: github commands in Readme"`
+- `git push`
